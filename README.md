@@ -1,5 +1,12 @@
 # CV_DMTet
 Project for Computer Vision course at NYU Fall 2022
 
+To config the environment, run 
 
-Main branch
+    conda env create -f env.yml
+
+
+Week 1: config & dataset:
+
+visualize TurboSquid and ShapeNet
+
