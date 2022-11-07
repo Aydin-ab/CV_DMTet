@@ -1,0 +1,3 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/kaolin/third_party/cub/test/cmake/test_install"
+}
