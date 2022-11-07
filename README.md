@@ -8,5 +8,6 @@ To config the environment, run
 
 Week 1: config & dataset:
 
-visualize TurboSquid and ShapeNet
+visualize ShapeNet
 
+dependency needed: kaolin and pytorch3d
