@@ -6,8 +6,4 @@ To config the environment, run
     conda env create -f env.yml
 
 
-Week 1: config & dataset:
-
-visualize ShapeNet
-
 dependency needed: kaolin and pytorch3d
